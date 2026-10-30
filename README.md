@@ -35,10 +35,14 @@ claude --plugin-dir ./templatehouse-claude-plugin
 - 이 ZIP에는 비밀번호, 토큰 또는 OAuth 클라이언트 비밀값이 없습니다.
 - 패키지 형식과 압축 파일은 로컬에서 검사했습니다. 실제 Claude 설치 및
   OAuth 로그인, 프로젝트 조회, 저장 성공 여부는 Claude에서 확인해야 합니다.
-- 공개 디렉터리 심사 제출용 패키지는 아닙니다. 공개 제출에는 라이선스 등
-  추가 심사 요건을 별도로 준비해야 합니다.
+- 공개 디렉터리 심사용 소스는 아래 GitHub 저장소에서 확인할 수 있습니다.
+  https://github.com/openfieldth/templatehouse-claude-plugin
+
+## 정책
+
+- 라이선스: https://temha.io/policy/license
+- 개인정보처리방침: https://temha.io/policy/privacy
+- 지원: https://temha.io/help/
 
 공식 형식과 설치 안내:
 https://claude.com/docs/plugins/build
-
-지원: https://temha.io/help/
