@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "templatehouse": {
+      "type": "http",
+      "url": "https://mcp.temha.io/mcp"
+    }
+  }
+}
